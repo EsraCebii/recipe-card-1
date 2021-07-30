@@ -22,6 +22,8 @@ function App() {
           /* prop ismi = { değişken } */
           author={recipeAuthor}
           item ={recipeItem}
+          liked ={isLiked}
+          count ={likeCount}
         />
       </header>
     </div>
